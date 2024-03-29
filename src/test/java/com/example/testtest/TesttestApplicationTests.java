@@ -10,7 +10,7 @@ class TesttestApplicationTests {
 
     @Test
     void contextLoads() {
-        assertEquals("aa","aa");
+        assertEquals("Ba","aa");
     }
 
 }
